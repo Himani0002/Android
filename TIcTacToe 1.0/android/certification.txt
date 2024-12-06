@@ -1,0 +1,24 @@
+---------------------------------------------------
+Here are the ownership and the certification details
+of the TIcTacToe 1.0
+---------------------------------------------------
+
+app_name - 						TIcTacToe
+app_alias - 					tictactoe
+app_author_name - 				My Company
+app_author_organizational - 	My Company
+app_author_organization - 		My Company
+app_author_locality - 			My Company
+app_author_state - 				Gujarat
+app_author_country - 			India
+app_password - 					cmGha7cBYCit
+app_versionName - 				versionName "1.0"
+app_versionCode - 				100
+
+---------------------------------------------------
+The certification was created by WebIntoApp.com at
+the Friday 6th of December 2024 08:53:37 AM
+
+https://www.webintoapp.com
+---------------------------------------------------
+
